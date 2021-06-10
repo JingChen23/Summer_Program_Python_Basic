@@ -1,4 +1,4 @@
-# Summer program: Python basic - Search algorithm
+# Summer program: Python basic - search algorithm
 ##### The aim of this project is to let a high school student to get the basic knowledge of programming. Python is the best language for a starter to learn how to do programming.
 ##### The search algorithm is the most important algorithm in the computer science world. Imagine you have an English dictionary, how do you find the word in the dictionary?
 
