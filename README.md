@@ -19,6 +19,7 @@
 4. https://www.youtube.com/playlist?list=PLboXykqtm8dy_DNg1NZiS08Dnyj35PWXw
 5. https://stackoverflow.com/questions/700241/what-is-the-difference-between-linear-search-and-binary-search
 6. https://docs.python.org/3/library/timeit.html
+7. https://brew.sh/
 ##### Please notice: a good programmer can know every thing when he/she has the Internet access, please go to search anything you want to know by Google.
 
 ## Timeline
